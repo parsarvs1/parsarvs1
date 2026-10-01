@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Parsa
 
-<!--
-**parsarvs1/parsarvs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer & Builder**
 
-Here are some ideas to get you started:
+I enjoy turning ideas into real, useful products and learning by building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Building
+
+* 🧰 **DevKit** — Developer tools in one place
+* 📱 **LifeOS** — A personal productivity & life management app
+* 🎵 **Randomify** — A local music player
+
+### 🛠️ Technologies
+
+`JavaScript` · `React` · `Next.js` · `Flutter` · `HTML` · `CSS` · `Git` · `GitHub`
+
+### 📌 What I Like
+
+* Building useful web applications
+* Creating developer tools
+* Exploring new technologies
+* Turning ideas into real projects
+* Improving projects through iteration
+
+### 🎯 My Approach
+
+> Learn by building.
+> Build → Break → Debug → Improve → Ship.
+
+---
+
+⭐ Thanks for visiting my profile!
